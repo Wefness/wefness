@@ -50,10 +50,9 @@
 ##
 <div>
   <a href="https://github.com/wefness">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wefness&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=wefness&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=wefness&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wefness&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
 <!--
 **Wefness/wefness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
